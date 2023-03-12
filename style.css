@@ -1,0 +1,19 @@
+h1{
+    font-size: 60px;
+}
+
+.boanoite{
+    color: green;
+}
+
+.bomdia{
+    color: yellow;
+    font-weight: 500;
+} 
+
+.externo{
+    color: brown;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}
